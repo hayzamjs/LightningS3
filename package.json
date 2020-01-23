@@ -1,5 +1,5 @@
 {
-  "name": "Lightning S3",
+  "name": "Lightning-S3",
   "version": "1.0.0",
   "description": "Storage of Files using in key-value LMDB.",
   "main": "index.js",
